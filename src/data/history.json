@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web development intern",
+    "organisation": "Codsoft",
+    "startDate": "July 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on interactive frontend projects", "Created user friendly interface with optimization"],
+    "imageSrc": "experience/CodSoft-logo.jpg"
+  },
+  {
+    "role": "Web development intern",
+    "organisation": "Trunk solution",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Worked on interactive frontend projects", "Created user friendly interface with optimization"],
+    "imageSrc": "experience/trunk-logo.jpg"
+  }
+]

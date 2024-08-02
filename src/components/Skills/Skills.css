@@ -1,0 +1,71 @@
+@import '../../vars.css';
+.skills {
+  
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.skills h1{
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.skills-section {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.skills-group {
+  width: 60%;
+}
+.skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 10px; 
+}
+
+
+.skill-icon img {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.progress-bar {
+  flex: 1;
+  background-color: #333;
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+}
+
+.progress {
+  height: 10px;
+  background-color: #00ffff;
+  transition: width 2s ease-in-out; 
+}
+
+.skill-level {
+  width: 30px;
+  margin-left: 10px;
+  color: #fff;
+}
+.skill-name {
+  .skill-name {
+    margin-right: 10px;
+    flex: 1;
+    text-align: left;
+  }
+  
+}
+
+.skill-name span {
+  font-size: 25px;
+  color: #fff;
+}

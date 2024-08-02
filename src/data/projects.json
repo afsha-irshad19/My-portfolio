@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Cryptocurrency converter",
+    "imageSrc": "project/p1.png",
+    "description": "This is a project made to covert Cryptocurrency into INR.",
+    "skills": ["React", "Node", "Express"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Restaurant website",
+    "imageSrc": "project/p2.png",
+    "description": "A restaurant website where people can explore different food items and offers.",
+    "skills":  ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Landing page",
+    "imageSrc": "project/p3.png",
+    "description": "A responsive landing page with attractive design for Codsoft to sell their  services.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Task management system",
+    "imageSrc": "project/p4.png",
+    "description": "A task management system  with attractive design to manage taska and their date.",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
